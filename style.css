@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital@1&display=swap');
+body{
+    background-image: url(./assets/dice.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+.container{
+    height: 500px;
+    width:60%;
+    background-color: white;
+    margin-top: 125px;
+    margin-left: 20%;
+    display: flex;
+    justify-content: center;
+}
+.row{
+    margin-top: 60px;
+    text-align: center;
+    font-family: 'Vollkorn', serif;
+    font-size: 25px;
+}
+#head{
+    font-family: 'Vollkorn', serif;
+    font-size: 40px;
+}
+button{
+    color: white;
+    font-weight: bold;
+    background-color: black;
+}
